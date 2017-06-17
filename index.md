@@ -1,7 +1,7 @@
 ## Welcome to GitHxd Pages
 
-[ClouldNetworking.cc](http://www.ClouldNetworking.cc)
+[CloudNetworking.cc](http://www.CloudNetworking.cc)
 
-[ClouldNetwork.cc](http://www.ClouldNetwork.cc)
+[CloudNetwork.cc](http://www.CloudNetwork.cc)
 
 [GitCN.net](http://www.GitCN.net)
